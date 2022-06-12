@@ -12,4 +12,4 @@
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=spongly" alt="spongly"/> </p>  </p>
 <br>
 
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
