@@ -1,7 +1,7 @@
 <h4 align="center">Hi there 👋</h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spongly)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=spongly"/>
 </p>
 
 
