@@ -1,10 +1,4 @@
 <p align="center">
-  <p>`Email - spongly@duck.com`
-  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
-  &nbsp;
-</a> 
-  
-<p align="center">
 
 <img width="500" src="https://metrics.lecoq.io/spongly" alt="Github Metrics">
   
