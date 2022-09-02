@@ -1,15 +1,3 @@
-<h3 align="center">Hi</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/spongly/spongly/master/img/profile2.gif"/>
-</p>
-
-<p align="center">
- <a target="_blank" href=https://github.com/spongly>
-  <img src=https://img.shields.io/github/followers/spongly?label=follow%20me&style=social />
-  &nbsp;
-</a>
-
 <a target="_blank" href=mailto:spongly@duck.com>
   <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
   &nbsp;
