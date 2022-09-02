@@ -2,9 +2,7 @@
 <a target="_blank" href=mailto:spongly@duck.com>
   <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
   &nbsp;
-</a>
-
-<br></br>  
+</a> 
   
 <p align="center">
 
