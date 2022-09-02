@@ -15,12 +15,6 @@
   &nbsp;
 </a>
 
-<a target="_blank" href=https://spongly.me >
-  <img height="25" width="25" src="https://raw.githubusercontent.com/spongly/spongly/master/img/pngegg.png" fill="#fff"/>
-  &nbsp;
-</a>
-</p>
-
 <hr>
 <h3 align="center">Show me your cards</h3>
 <br>
@@ -45,7 +39,7 @@
 
 <p align="center">
 
-<img width="500" src="https://metrics.lecoq.io/blueedgetechno" alt="Github Metrics">
+<img width="500" src="https://metrics.lecoq.io/spongly" alt="Github Metrics">
   
 <br>
 
