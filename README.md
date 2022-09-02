@@ -1,11 +1,7 @@
-<h3 align="center">Hi, Homo sapiens 👋</h3>
-
-<br>
-<h3 align="center"> ⭐ If you like 3d puzzle games, do <a href=https://blueedge.me/unescape target="_blank" >subscribe</a> to the game, Unescape, I'm working on. ⭐</h3>
-<br>
+<h3 align="center">Hi</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile2.gif"/>
+  <img src="https://raw.githubusercontent.com/spongly/spongly/master/img/profile2.gif"/>
 </p>
 
 <p align="center">
