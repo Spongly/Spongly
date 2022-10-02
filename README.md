@@ -1,4 +1,4 @@
-#<p align="center">
+<p align="center">
 
 <img width="500" src="https://metrics.lecoq.io/spongly" alt="Github Metrics">
   
