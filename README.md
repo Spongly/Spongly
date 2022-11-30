@@ -6,7 +6,7 @@
  
 <p align="center">
 
-<img width="500" src="![Metrics](https://metrics.lecoq.io/Spongly?template=classic&isocalendar=1&achievements=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles)" alt="Github Metrics">
+<img width="500" src="https://metrics.lecoq.io/Spongly?template=classic&isocalendar=1&achievements=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles" alt="Github Metrics">
   
 <br>
 
