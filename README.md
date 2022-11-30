@@ -14,7 +14,6 @@
 ![](https://activity-graph.herokuapp.com/graph?username=Spongly&theme=redical)
 
 ![snake](https://raw.githubusercontent.com/Spongly/Spongly/output/github-contribution-grid-snake.svg)
-
-<br>
+ 
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Spongly" alt="Spongly"/> </p>  </p>
 <br>
