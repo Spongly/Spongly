@@ -1,5 +1,5 @@
 <p align="center">
-<img width="500" src="https://metrics.lecoq.io/spongly?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FKathmandu" alt="Github Metrics">
+<img width="500" src="https://metrics.lecoq.io/spongly" alt="Github Metrics">
 </p>
 
 |![](https://github-readme-stats.vercel.app/api?username=spongly&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=spongly&layout=compact&theme=tokyonight&langs_count=10)|
