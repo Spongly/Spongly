@@ -7,6 +7,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=spongly&theme=redical)
 
+![snake](https://raw.githubusercontent.com/spongly/spongly/output/github-contribution-grid-snake.svg)
 
 <br>
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Spongly" alt="Spongly"/> </p>  </p>
