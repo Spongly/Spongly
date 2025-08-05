@@ -7,16 +7,18 @@
   <br/>
   
   <div align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=spongly&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spongly&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=spongly&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spongly&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
   </div>
 
   <br/>
   
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=spongly&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=1F6FEB&point=58A6FF)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=spongly&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB)
 
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=Spongly&style=flat-square&color=1F6FEB" alt="Profile Views" />
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Spongly&label=Profile%20views&color=1F6FEB&style=flat" alt="Spongly" /> 
+  </p>
 
 </div>
