@@ -17,8 +17,8 @@
 
   <br/>
   
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Spongly&label=Profile%20views&color=1F6FEB&style=flat" alt="Spongly" /> 
-  </p>
+<p align="center">
+  <img src="https://hits.sh/github.com/Spongly.svg?style=flat&label=Profile%20Views&color=1F6FEB&labelColor=0D1117" alt="Profile Views"/>
+</p>
 
 </div>
