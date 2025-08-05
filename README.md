@@ -18,7 +18,7 @@
   <br/>
   
 <p align="center">
-  <img src="https://hits.sh/github.com/Spongly.svg?style=flat&label=🚀%20Total%20Views&color=8A2BE2&extraCount=10000&labelColor=0D1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/👑_Total_Views-10k%2B-8A2BE2?style=flat&logo=github" alt="Profile Views"/>
 </p>
 
 </div>
